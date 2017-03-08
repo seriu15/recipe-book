@@ -1,7 +1,8 @@
 # Open this projest using githup pages
 
 Just click link bellow
-https://seriu15.github.io/recipe-book/dist/
+
+[recipe-book](https://seriu15.github.io/recipe-book/dist/)
 
 # RecipeBook
 
