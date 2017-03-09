@@ -13,6 +13,7 @@ export class ShoppingListService {
   }
 
   addItem(item: Ingredient) {
+
     this.items.push(item);
   }
 

@@ -11,6 +11,7 @@ export class ShoppingListAddComponent implements OnChanges {
   @Input() item: Ingredient;
   @Output() cleared = new EventEmitter();
   isAdd = true;
+  isAmountNumber = true;
 
   constructor(private sls: ShoppingListService) {}
 
